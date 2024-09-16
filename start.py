@@ -1,2 +1,2 @@
 print("hello world")
-print
+age = int(input("enter age:"))
